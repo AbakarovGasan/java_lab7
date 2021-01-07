@@ -1,8 +1,6 @@
 import java.net.*;
 
-/**
- * A class to represent [URL, depth] pairs for our Crawler. 
- */
+
 public class URLDepthPair {
     
 
